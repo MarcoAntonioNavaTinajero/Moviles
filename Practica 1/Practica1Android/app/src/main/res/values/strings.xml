@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica1Android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">La pizza de Don Cangrejo</string>
+    <string name="second_fragment_label">La pizza de Don Cangrejo</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="don">DonCangrejo</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="peperoni">Clasica peperoni</string>
+    <string name="Titulo">Menu</string>
+    <string name="dulce">Pizza Dulce</string>
+    <string name="fresa">Pizza Fresa</string>
+    <string name="gitomate">Pizza Gitomate</string>
+    <string name="desc_dulce">Masa suave preparada con los mejores complementos</string>
+    <string name="desc_fresa">Deliciosa pizza hecha por los dioses</string>
+    <string name="desc_gitomate">Pizza para chuparse los dedos</string>
+    <string name="orden_dulce">Has ordenado una pizza dulce</string>
+    <string name="orden_fresa">Has ordenado una pizza de fresa</string>
+    <string name="orden_gitomate">Has ordenado una pizza de gitomate</string>
+</resources>
