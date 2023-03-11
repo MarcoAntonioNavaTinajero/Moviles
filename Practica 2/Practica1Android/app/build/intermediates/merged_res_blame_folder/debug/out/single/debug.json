@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_pizza.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_descargar.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\descargar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_asd.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\asd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_swewe.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\swewe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_carrito.jpg.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\carrito.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practica1android.app-merged_res-63:/layout_fragment_second.xml.flat",
+        "source": "com.example.practica1android.app-main-65:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-merged_res-63:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\fragment_second.xml"
+    }
+]

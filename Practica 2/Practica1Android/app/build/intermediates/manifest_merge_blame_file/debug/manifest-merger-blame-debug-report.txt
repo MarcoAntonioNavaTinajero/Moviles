@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.practica1android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.practica1android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.practica1android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+15-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:13:5-77
+17-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:13:22-74
+18
+19    <application
+19-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:5:5-33:19
+20        android:allowBackup="true"
+20-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\anton\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:7:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:8:9-54
+26        android:icon="@drawable/pizza"
+26-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:9:9-39
+27        android:label="@string/app_name"
+27-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:10:9-41
+28        android:roundIcon="@drawable/pizza"
+28-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:11:9-44
+29        android:supportsRtl="true"
+29-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:12:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.Practica1Android" >
+31-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:13:9-54
+32        <activity
+32-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:15:9-29:20
+33            android:name="com.example.practica1android.MainActivity"
+33-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:16:13-41
+34            android:exported="true"
+34-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:17:13-36
+35            android:label="@string/app_name"
+35-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:18:13-45
+36            android:theme="@style/Theme.Practica1Android.NoActionBar" >
+36-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:19:13-70
+37            <intent-filter>
+37-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:20:13-24:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:21:17-69
+38-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:21:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:23:17-77
+40-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:23:27-74
+41            </intent-filter>
+42
+43            <meta-data
+43-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:26:13-28:36
+44                android:name="android.app.lib_name"
+44-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:27:17-52
+45                android:value="" />
+45-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:28:17-33
+46        </activity>
+47
+48        <meta-data
+48-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:30:9-32:57
+49            android:name="preloaded_fonts"
+49-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:31:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->C:\Users\anton\Downloads\Practica1Android\Practica1Android\app\src\main\AndroidManifest.xml:32:13-54
+51
+52        <uses-library
+52-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+53            android:name="androidx.window.extensions"
+53-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+56            android:name="androidx.window.sidecar"
+56-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\anton\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.practica1android.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anton\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anton\.gradle\caches\transforms-3\bc20495ed95468909cb7441f5c0d3699\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anton\.gradle\caches\transforms-3\bc20495ed95468909cb7441f5c0d3699\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anton\.gradle\caches\transforms-3\bc20495ed95468909cb7441f5c0d3699\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+69            <meta-data
+69-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+70-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+71                android:value="androidx.startup" />
+71-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+72        </provider>
+73
+74        <receiver
+74-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+75            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+75-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+76            android:directBootAware="false"
+76-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+77            android:enabled="true"
+77-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+78            android:exported="true"
+78-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+79            android:permission="android.permission.DUMP" >
+79-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+81                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+81-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\anton\.gradle\caches\transforms-3\993719bdbe9fd76778f65371d5ef2d2c\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+82            </intent-filter>
+83        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+84        <activity
+84-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:18:9-24:45
+85            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+85-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:19:13-100
+86            android:enabled="false"
+86-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:20:13-36
+87            android:exported="false"
+87-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:21:13-37
+88            android:launchMode="singleInstance"
+88-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:22:13-48
+89            android:process=":playcore_missing_splits_activity"
+89-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:23:13-64
+90            android:stateNotNeeded="true" />
+90-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:24:13-42
+91        <activity
+91-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:25:9-29:65
+92            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+92-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:26:13-93
+93            android:exported="false"
+93-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:27:13-37
+94            android:stateNotNeeded="true"
+94-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:28:13-42
+95            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+95-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:29:13-62
+96        <service
+96-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:32:9-39:19
+97            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+97-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:33:13-94
+98            android:enabled="false"
+98-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:34:13-36
+99            android:exported="true" >
+99-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:35:13-36
+100            <meta-data
+100-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:36:13-38:41
+101                android:name="com.google.android.play.core.assetpacks.versionCode"
+101-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:37:17-83
+102                android:value="11003" />
+102-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:38:17-38
+103        </service>
+104        <service
+104-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:40:9-43:40
+105            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+105-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:41:13-95
+106            android:enabled="false"
+106-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:42:13-36
+107            android:exported="false" />
+107-->[com.google.android.play:core:1.10.3] C:\Users\anton\.gradle\caches\transforms-3\736a7be14497d91b0d765d41ceea5d2c\transformed\core-1.10.3\AndroidManifest.xml:43:13-37
+108    </application>
+109
+110</manifest>

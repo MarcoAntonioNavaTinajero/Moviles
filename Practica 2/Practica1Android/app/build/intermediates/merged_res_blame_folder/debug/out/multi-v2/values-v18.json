@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.practica1android.app-mergeDebugResources-61:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\anton\\.gradle\\caches\\transforms-3\\89730aca27e5be8f149c889f5ec93a0f\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

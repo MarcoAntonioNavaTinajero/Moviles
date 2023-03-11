@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-mergeDebugResources-62:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.practica1android.app-mergeDebugResources-62:/layout/fragment_second.xml",
+        "source": "com.example.practica1android.app-main-65:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-mergeDebugResources-62:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-mergeDebugResources-62:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-mergeDebugResources-62:\\layout\\content_main.xml",
+        "source": "C:\\Users\\anton\\.gradle\\daemon\\7.5\\com.example.practica1android.app-main-65:\\layout\\content_main.xml"
+    }
+]
