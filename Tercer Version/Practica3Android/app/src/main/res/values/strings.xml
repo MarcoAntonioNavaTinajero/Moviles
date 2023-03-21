@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">La Pizza de Don Cangrejo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Pantalla</string>
+    <string name="second_fragment_label">Segunda Pantalla</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="titulo_de_fragmento">La Pizza de Don Cangrejo</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="dulce">Pizza Dulce</string>
+    <string name="fresa">Pizza Fresa</string>
+    <string name="jitomate">Pizza Jitomate</string>
+    <string name="desc_dulce">Masa suave preparada con los mejores complementos</string>
+    <string name="desc_fresa">Deliciosa pizza hecha por los dioses</string>
+    <string name="desc_jitomate">Pizza para chuparse los dedos</string>
+    <string name="orden_dulce">Has ordenado una pizza dulce</string>
+    <string name="orden_fresa">Has ordenado una pizza de fresa</string>
+    <string name="orden_gitomate">Has ordenado una pizza de gitomate</string>
+    <string name="TY">Gracias</string>
+    <string name="submit">ir</string>
+    <string name="orden">Confirmar orden</string>
+    <string name="gracias">Gracias por su compra</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
